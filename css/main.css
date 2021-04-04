@@ -1,38 +1,8 @@
-@import 'https://fonts.googleapis.com/css?family=Comfortaa:400,700|Fredoka+One|Nunito:400,800,900|Poiret+One|Quicksand:400,500,700';
-
-
-html,
 body {
-  font-family: 'comfortaa', sans-serif;
-  text-align: center;
+  background-color: lightblue;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-}
-
-/* about me */
-
-#welcome-section {
-  top: 20;
-  line-height: 1.6;
-  background: #F5F5F5;
-  min-height: 55vh;
-  padding-top: 45vh;
-  text-align: 
-}
-  
-/* mobile section */
-
-@media screen and (max-width: 400px) {
-  nav ul {
-    text-align: center;
-  }
-  nav ul li {
-    margin: 20px;
-  }
-  .project {
-    margin: 40px 0;
-  }
+h1 {
+  color: navy;
+  margin-left: 20px;
 }
